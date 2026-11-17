@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Галерея</string>
+    <string name="previous">Назад</string>
+    <string name="next">Вперёд</string>
+    <string name="position">Работа %1$d из %2$d</string>
+    <string name="art_squares_title">Композиция с квадратами</string>
+    <string name="art_squares_artist">А. Квадратов</string>
+    <string name="art_waves_title">Северные волны</string>
+    <string name="art_waves_artist">М. Волнова</string>
+    <string name="art_circles_title">Пузыри ночи</string>
+    <string name="art_circles_artist">К. Кругов</string>
+    <string name="art_sunset_title">Закат в горах</string>
+    <string name="art_sunset_artist">И. Горный</string>
+</resources>
